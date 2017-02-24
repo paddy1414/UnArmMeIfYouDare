@@ -1,0 +1,6 @@
+this.state ={
+		isRunning: false,
+		mainTimer: null,
+		mainTimerStart: null,
+	
+	};
